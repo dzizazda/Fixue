@@ -6,4 +6,4 @@ The newly found "GitHub farming" strategy is harmful for every part of the ecosy
 * Then to the developpers with meaningful contributions, who are cheated.
 * Lastly to the user, a victim of injustice whose allocation may be reduced to feed greedy farmers.
 
-This strategy needs to be proven ineffective from the very beginning to prevent its spread.
+This strategy needs to be proven ineffective from the very beginning to prevent its spread & protect Open Source.
