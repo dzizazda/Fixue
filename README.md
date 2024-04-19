@@ -9,3 +9,6 @@ The newly found "GitHub farming" strategy is harmful for every part of the ecosy
 The only winners from "GitHub farming" are the "GitHub farmers", at the expense of everybody else.
 
 This strategy needs to be proven ineffective from the very beginning to prevent its spread & protect Open Sourcing.
+
+
+agreed
